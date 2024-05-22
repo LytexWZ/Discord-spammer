@@ -4,8 +4,8 @@ A very simple python program that uses keyboard simulation to spam "." into the 
 
 
 # Requirements 
-Python 3.10 or superior
-Keyboard module to listen for the "-"
+- Python 3.10 or superior
+- Keyboard module to listen for the "-"
 
 # Instalation
 - Press the green "<>Code" button and download this repo as ZIP
