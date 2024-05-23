@@ -1,6 +1,7 @@
 # Discord-spammer
 A very simple python program that uses keyboard simulation to spam "." into the chats with a cooldown to avoid beeing stopped.
-![image](https://github.com/LytexWZ/Discord-spammer/assets/72569213/cd71c847-5e35-4cb9-b167-5dd1d5d6dfcd)
+![image](https://github.com/LytexWZ/Discord-spammer/assets/72569213/49385cdc-c44b-4574-b5fc-f37516b38ff4)
+
 
 
 # Requirements 
